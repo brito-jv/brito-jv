@@ -1,4 +1,4 @@
-[[![MasterHead](https://cdnb.artstation.com/p/assets/images/images/037/291/529/original/karim-abou-shousha-light.gif?1620017258)](https://www.linkedin.com/in/brian-meli-817292209)
+[[![MasterHead](https://ia600103.us.archive.org/11/items/andriansyachhilman_gmail_8/4.gif)](https://www.linkedin.com/in/brian-meli-817292209)
 <h1 align="center">Hi 👋, I'm brito-jv</h1>
 <h3 align="center">A passionate backend developer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif"/>
@@ -7,7 +7,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/@B_T_Bryan" target="blank"><img src="https://img.shields.io/twitter/follow/@b_t_bryan?logo=twitter&style=for-the-badge" alt="@b_t_bryan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@B_T_Bryan?s=09" target="blank"><img src="https://img.shields.io/twitter/follow/@b_t_bryan?logo=twitter&style=for-the-badge" alt="@b_t_bryan" /></a> </p>
 
 - 🔭 I’m currently working on **Spring boot project**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@b_t_bryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@b_t_bryan" height="30" width="40" /></a>
+<a href="https://twitter.com/@B_T_Bryan?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@b_t_bryan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/brian meli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian meli" height="30" width="40" /></a>
 <a href="https://fb.com/bryan meli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bryan meli" height="30" width="40" /></a>
 </p>
