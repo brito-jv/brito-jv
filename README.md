@@ -1,4 +1,4 @@
-[![MasterHead](https://c.tenor.com/_zbsJOBoVOEAAAAC/banner.gif)](https://www.linkedin.com/in/brian-meli-817292209)
+[![MasterHead](https://64.media.tumblr.com/d69dd87eef8d7175c3fde44a454fb193/f5086ac2846e4387-c1/s540x810/8b53cba0d131fec9dc9df764040e3a2e32210e62.gifv)](https://www.linkedin.com/in/brian-meli-817292209)
 <h1 align="center">Hi 👋, I'm brito-jv</h1>
 <h3 align="center">A passionate backend developer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif"/>
