@@ -7,7 +7,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/@B_T_Bryan" target="blank"><img src="https://img.shields.io/twitter/follow/@b_t_bryan?logo=twitter&style=for-the-badge" alt="@b_t_bryan" /></a> </p>
+
 
 - 🔭 I’m currently working on **Spring boot project**
 
