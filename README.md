@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/d69dd87eef8d7175c3fde44a454fb193/f5086ac2846e4387-c1/s540x810/8b53cba0d131fec9dc9df764040e3a2e32210e62.gifv)](https://www.linkedin.com/in/brian-meli-817292209)
+[![MasterHead](https://cdnb.artstation.com/p/assets/images/images/037/291/529/original/karim-abou-shousha-light.gif?1620017258)](https://www.linkedin.com/in/brian-meli-817292209)
 <h1 align="center">Hi 👋, I'm brito-jv</h1>
 <h3 align="center">A passionate backend developer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif"/>
@@ -7,7 +7,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/@b_t_bryan" target="blank"><img src="https://img.shields.io/twitter/follow/@b_t_bryan?logo=twitter&style=for-the-badge" alt="@b_t_bryan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@B_T_Bryan" target="blank"><img src="https://img.shields.io/twitter/follow/@b_t_bryan?logo=twitter&style=for-the-badge" alt="@b_t_bryan" /></a> </p>
 
 - 🔭 I’m currently working on **Spring boot project**
 
